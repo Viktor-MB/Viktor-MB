@@ -57,9 +57,9 @@ Apaixonado por transformar dados brutos em insights valiosos e soluções inteli
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🔗 Projeto 1](#) | Breve descrição do projeto | Python, Scikit-Learn |
-| [🔗 Projeto 2](#) | Breve descrição do projeto | SQL, Power BI |
-| [🔗 Projeto 3](#) | Breve descrição do projeto | TensorFlow, Keras |
+| [🔗 Projeto de ML](https://github.com/Viktor-MB/Analise-Preditiva-Mercado-IA-2026) | Um pippeline bem estruturado para predição | Python, Scikit-Learn |
+| [🔗 Projeto de BI](https://github.com/Viktor-MB/Business-Intelligence/tree/main/AC/Trabalho-AC-BI) | Projeto seguindo o processo de BI até a implementação visual | SQL, Power BI |
+| [🔗 Projeto de Python](https://github.com/Viktor-MB/Jogo-em-python) | Criação de um mini jogo em python | PyGame, POO |
 
 ---
 
