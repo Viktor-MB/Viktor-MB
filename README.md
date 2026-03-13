@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Viktor
 
 ### 📊 Data Scientist | Machine Learning | Análise de Dados | IA
 
@@ -67,9 +67,9 @@ Apaixonado por transformar dados brutos em insights valiosos e soluções inteli
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor-MB&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktor-MB&layout=compact&langs_count=7&theme=dark)
 
 </div>
 
@@ -77,9 +77,9 @@ Apaixonado por transformar dados brutos em insights valiosos e soluções inteli
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/SEU_PERFIL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-mayer-berruezo-070545381/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://kaggle.com/SEU_PERFIL](https://www.kaggle.com/viktormayerberruezo))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktor.mayerberruezo@gmail.com)
 
 ---
 
