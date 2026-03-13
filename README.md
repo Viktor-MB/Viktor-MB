@@ -8,10 +8,10 @@ Apaixonado por transformar dados brutos em insights valiosos e soluções inteli
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando em projetos de **Machine Learning e Análise de Dados**
+- 🔭 Atualmente trabalhando em projetos de **Machine Learning, análise de Dados e BI**
 - 🌱 Sempre aprendendo novas técnicas de **IA e Engenharia de Dados**
 - 💡 Acredito que boas decisões começam com bons dados
-- 📫 Como me encontrar: **[seu@email.com]**
+- 📫 Como me encontrar: **[viktor.mayerberruezo@gmail.com]**
 
 ---
 
