@@ -26,39 +26,36 @@ Estudante de Ciência de Dados e IA no **Ibmec RJ** e estagiário de dados. Trab
 
 ## Projetos em destaque
 
-### [Análise de sentimento de notícias financeiras](https://github.com/Viktor-MB/financial-news-sentiment-analysis)
-Fine-tuning do BERT em PyTorch comparado a baselines TF-IDF + Regressão Logística e SVM, no Financial PhraseBank.
-**95,6% de acurácia · 0,94 de macro-F1** (o SVM chegou a 0,88). Na validação cruzada com 5 folds, o macro-F1 foi 0,93 ± 0,02.
-`PyTorch` `Hugging Face` `Scikit-Learn`
-
 ### [Aprendizado por Reforço aplicado a trading](https://github.com/Viktor-MB/Reinforcement-Learning-trading-env)
 Trading diário de Bitcoin modelado como um MDP de 27 estados e resolvido com Value Iteration, Monte Carlo e Q-learning. Teste fora da amostra no `gym-trading-env`, com custo de corretagem, comparação com modelos econométricos e validação walk-forward.
 `NumPy` `Pandas` `statsmodels` `gym-trading-env`
 
-### [RioBusTracker](https://github.com/Viktor-MB/Projeto-Onibus-RJ) · [ver app online](https://projeto-onibus-rj.streamlit.app/)
-Rastreamento em tempo real da frota de ônibus do Rio de Janeiro com dados da API pública da prefeitura. Mapa interativo, janela deslizante de tempo e atualização automática.
-`Streamlit` `Folium` `Pandas`
+### [Financial News Sentiment Analysis with BERT](https://github.com/Viktor-MB/financial-news-sentiment-analysis)
+Financial news sentiment classification: BERT fine-tuning (PyTorch) vs. TF-IDF + Logistic Regression and SVM baselines on Financial PhraseBank.
+**95.6% accuracy · 0.94 macro-F1** (SVM: 0.88). 5-fold cross-validation: macro-F1 0.93 ± 0.02.
+`PyTorch` `Hugging Face` `Scikit-Learn`
 
-### [BI de vendas: ByteShop](https://github.com/Viktor-MB/Projeto-BI)
-Ciclo completo de BI: Data Warehouse em star schema, ETL no Pentaho com SCD tipos 1 e 2, e dashboards no Power BI.
-`PostgreSQL` `Pentaho` `Power BI`
+### [EDA de sinistros em transportes](https://github.com/Viktor-MB/EDA-Sinistros-Transporte)
+Preparação e análise de dados reais de não conformidades no transporte de cargas. Criação da variável alvo em 6 categorias, EDA por categoria, semana, transportadora e UF, engenharia de atributos a partir de data e hora (período do dia, dia da semana, feriados nacionais e estaduais) e SMOTE para classes muito desbalanceadas (4.892 registros na maior classe contra 9 na menor).
+`Pandas` `Feature Engineering` `SMOTE`
 
-### [LLMs com LangChain](https://github.com/Viktor-MB/LangChain_Python)
-RAG com busca semântica (FAISS e embeddings do Hugging Face) e roteador com LangGraph, usando Llama 3.3 70B via Groq.
-`LangChain` `LangGraph` `FAISS`
+### [Análise preditiva do mercado de IA (2020–2026)](https://github.com/Viktor-MB/Analise-Preditiva-Mercado-IA-2026)
+EDA da evolução do mercado de trabalho em IA e Data Science e modelo para prever salários a partir de senioridade, localização e modelo de trabalho.
+`Scikit-Learn` `XGBoost` `Random Forest` `Seaborn`
 
-### [Catálogo de produtos na AWS](https://github.com/Viktor-MB/Big-Data-Cloud-Computing)
-API REST em Django publicada no Elastic Beanstalk, com PostgreSQL no RDS e imagens no S3.
-`Django` `AWS` `PostgreSQL`
+### [Jogo roguelike em Python](https://github.com/Viktor-MB/Jogo-em-python)
+Jogo em PyGame estruturado com orientação a objetos: classes de aventureiro (guerreiro e tank) e inimigos (aranha, esqueleto, golem e chefe) organizados por herança, sistema de XP e nível, armadilhas, obstáculos gerados aleatoriamente, poções, trilha sonora e save em JSON.
+`Python` `PyGame` `POO`
 
 <details>
 <summary><b>Mais projetos</b></summary>
 <br>
 
-- [**EDA de sinistros em transportes**](https://github.com/Viktor-MB/EDA-Sinistros-Transporte): dados reais de ocorrências logísticas, com criação da variável alvo, engenharia de atributos (período do dia, feriados por UF) e SMOTE para classes desbalanceadas.
-- [**Mercado de IA 2020–2026**](https://github.com/Viktor-MB/Analise-Preditiva-Mercado-IA-2026): EDA e previsão de salários na área de IA e dados.
+- [**RioBusTracker**](https://github.com/Viktor-MB/Projeto-Onibus-RJ) ([app online](https://projeto-onibus-rj.streamlit.app/)): rastreamento em tempo real da frota de ônibus do Rio com dados da API pública da prefeitura, em Streamlit e Folium.
+- [**BI de vendas: ByteShop**](https://github.com/Viktor-MB/Projeto-BI): Data Warehouse em star schema, ETL no Pentaho com SCD tipos 1 e 2, e dashboards no Power BI.
+- [**LLMs com LangChain**](https://github.com/Viktor-MB/LangChain_Python): RAG com FAISS e embeddings do Hugging Face, e roteador com LangGraph usando Llama 3.3 70B via Groq.
+- [**Catálogo de produtos na AWS**](https://github.com/Viktor-MB/Big-Data-Cloud-Computing): API REST em Django no Elastic Beanstalk, com PostgreSQL no RDS e imagens no S3.
 - [**Projeto DRE**](https://github.com/Viktor-MB/Projeto-DRE): app web em React, Vite e Supabase para registrar e analisar receitas e despesas.
-- [**Jogo em Python**](https://github.com/Viktor-MB/Jogo-em-python): mini jogo com PyGame e orientação a objetos.
 
 </details>
 
