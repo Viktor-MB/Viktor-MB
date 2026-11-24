@@ -17,7 +17,7 @@
 Estudante de Ciência de Dados e IA no **Ibmec RJ** e estagiário de dados. Trabalho em todo o ciclo do dado, da engenharia e integração de APIs até a análise e o Machine Learning, sempre buscando resultado mensurável para o negócio.
 
 - Premiado no **Ibmec Education Stars** (2026)
-- ML clássico, Deep Learning (BERT em PyTorch), Aprendizado por Reforço e LLMs (RAG com LangChain)
+- Machine Learning, Deep Learning (BERT em PyTorch), Aprendizado por Reforço e LLMs (RAG com LangChain)
 - BI de ponta a ponta: modelagem dimensional, ETL e dashboards
 - APIs publicadas na AWS (Elastic Beanstalk, RDS, S3)
 - Rio de Janeiro, Brasil · viktor.mayerberruezo@gmail.com
